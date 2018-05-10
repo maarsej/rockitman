@@ -1,0 +1,19 @@
+{
+  "name": "rockitman",
+  "version": "0.2.0",
+  "description": "Draws stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maarsej/rockitman.git"
+  },
+  "author": "Jacob Maarse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maarsej/rockitman/issues"
+  },
+  "homepage": "https://github.com/maarsej/rockitman#readme"
+}
